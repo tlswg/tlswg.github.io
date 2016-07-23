@@ -2,6 +2,8 @@
 layout: front
 title: HTTP/2
 ---
+
+This is in the process of being edited for the TLS WG.
 	
 ## What is HTTP/2?
 
