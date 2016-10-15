@@ -5,7 +5,7 @@ title: TLS
 
 # This is in the process of being edited for the TLS WG.
 	
-## What is HTTP/2?
+## What is TLS?
 
 HTTP/2 is a replacement for how HTTP is expressed "on the wire." It is
 **not** a ground-up rewrite of the protocol; HTTP methods, status codes and
