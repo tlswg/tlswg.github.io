@@ -21,16 +21,13 @@ The basis of the work was
 has evolved to take the community's input into account, incorporating several
 improvements in the process.
 
-See [our charter](http://datatracker.ietf.org/wg/httpbis/charter/) for more
-details of the scope of the work, as well as our [Frequently Asked
-Questions](/faq/).
-
-_See also [HTTP/2 JP](https://github.com/http2jp), maintained by the Japanese HTTP/2 community._
-
+See [our charter](http://datatracker.ietf.org/wg/tls/charter/) for more
+details of the scope of the work.  Additionally, you can also check our
+[Frequently Asked Questions](/faq/).
 
 ## Specifications
 
-HTTP/2 is comprised of two specifications:
+TLS  is comprised of two specifications:
 
 * Hypertext Transfer Protocol version 2 - [RFC7540](https://httpwg.github.io/specs/rfc7540.html)
 * HPACK - Header Compression for HTTP/2 - [RFC7541](https://httpwg.github.io/specs/rfc7541.html)
@@ -39,7 +36,7 @@ HTTP/2 is comprised of two specifications:
 ## Implementations
 
 We track [known
-implementations](https://github.com/http2/http2-spec/wiki/Implementations) of
-HTTP/2 on our wiki. 
+implementations](https://github.com/tlswg/tls13-spec/wiki/Implementations) of
+TLS 1.3 on our wiki. 
 
 
