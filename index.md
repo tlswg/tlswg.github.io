@@ -3,40 +3,26 @@ layout: front
 title: TLS
 ---
 
-# This is in the process of being edited for the TLS WG.
-	
-## What is TLS?
+# What is TLS?
 
-HTTP/2 is a replacement for how HTTP is expressed "on the wire." It is
-**not** a ground-up rewrite of the protocol; HTTP methods, status codes and
-semantics are the same, and it should be possible to use the same APIs as
-HTTP/1.x (possibly with some small additions) to represent the protocol.
-
-The focus of the protocol is on performance; specifically, end-user perceived
-latency, network and server resource usage. One major goal is to allow the use
-of a single connection from browsers to a Web site.
-
-The basis of the work was
-[SPDY](http://tools.ietf.org/html/draft-mbelshe-httpbis-spdy-00), but HTTP/2
-has evolved to take the community's input into account, incorporating several
-improvements in the process.
+The TLS protocols allows client/server applications to communicate over the
+Internet in a way that is designed to prevent eavesdropping, tampering, and
+message forgery.  TLS is the connection oriented verions and DTLS is the
+connectionless variant; (D)TLS is often used to refer to both protocols.
 
 See [our charter](http://datatracker.ietf.org/wg/tls/charter/) for more
 details of the scope of the work.  Additionally, you can also check our
 [Frequently Asked Questions](/faq/).
 
-## Specifications
+# Specifications
 
-TLS  is comprised of two specifications:
+TLS has been revised a number of times, but the current specifications are:
 
-* Hypertext Transfer Protocol version 2 - [RFC7540](https://httpwg.github.io/specs/rfc7540.html)
-* HPACK - Header Compression for HTTP/2 - [RFC7541](https://httpwg.github.io/specs/rfc7541.html)
- 
- 
-## Implementations
+* [TLS1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-tls13/)
+* [DTLS1.3](https://github.com/ekr/dtls13-spec) (not yet adopted by the WG)
+
+# Implementations
 
 We track [known
 implementations](https://github.com/tlswg/tls13-spec/wiki/Implementations) of
-TLS 1.3 on our wiki. 
-
-
+TLS and DTLS 1.3 on our wiki.
