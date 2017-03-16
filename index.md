@@ -7,8 +7,8 @@ title: TLS
 
 The TLS protocols allows client/server applications to communicate over the
 Internet in a way that is designed to prevent eavesdropping, tampering, and
-message forgery.  TLS is the connection oriented verions and DTLS is the
-connectionless variant; (D)TLS is often used to refer to both protocols.
+message forgery.  TLS is the connection-oriented verions and DTLS is the
+connectionless-oriented variant; (D)TLS is used to refer to both protocols.
 
 See [our charter](http://datatracker.ietf.org/wg/tls/charter/) for more
 details of the scope of the work.  Additionally, you can also check our
