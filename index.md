@@ -22,7 +22,8 @@ we are working on are:
 * [TLS1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-tls13/)
 * [DTLS1.3](datatracker.ietf.org/doc/draft-ietf-tls-dtls13/)
 * [TLS 1.3 Test Vectors](https://datatracker.ietf.org/doc/draft-ietf-tls-tls13-vectors/)
-* [TLS 1.3 Certificate Compression] (https://datatracker.ietf.org/doc/draft-ietf-tls-certificate-compression/)
+* [TLS 1.3 Certificate Compression](https://datatracker.ietf.org/doc/draft-ietf-tls-certificate-compression/)
+* [TLS 1.3 Certificate Compression](https://datatracker.ietf.org/doc/draft-ietf-tls-certificate-compression/)
 * [DTLS Connection IDs](https://datatracker.ietf.org/doc/draft-ietf-tls-dtls-connection-id/)
 * [Server Name Indication Encryption](https://datatracker.ietf.org/doc/draft-ietf-tls-sni-encryption/)
 * [Delegated Credentials](https://datatracker.ietf.org/doc/draft-ietf-tls-subcerts/)
@@ -33,8 +34,8 @@ we are working on are:
 
 The previous versions of TLS and DTLS can be found at:
 
-* [TLS 1.2] (https://tools.ietf.org/html/rfc5246)
-* [DTLS 1.2] (https://tools.ietf.org/html/rfc6347)
+* [TLS 1.2](https://tools.ietf.org/html/rfc5246)
+* [DTLS 1.2](https://tools.ietf.org/html/rfc6347)
 
 # Implementations
 
