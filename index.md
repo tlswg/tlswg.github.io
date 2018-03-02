@@ -23,6 +23,7 @@ we are working on are:
 * [DTLS1.3](datatracker.ietf.org/doc/draft-ietf-tls-dtls13/)
 * [TLS 1.3 Test Vectors](https://datatracker.ietf.org/doc/draft-ietf-tls-tls13-vectors/)
 * [TLS 1.3 Certificate Compression](https://datatracker.ietf.org/doc/draft-ietf-tls-certificate-compression/)
+* [TLS 1.3 Certificate Compression](https://datatracker.ietf.org/doc/draft-ietf-tls-certificate-compression/)
 * [DTLS Connection IDs](https://datatracker.ietf.org/doc/draft-ietf-tls-dtls-connection-id/)
 * [Server Name Indication Encryption](https://datatracker.ietf.org/doc/draft-ietf-tls-sni-encryption/)
 * [Delegated Credentials](https://datatracker.ietf.org/doc/draft-ietf-tls-subcerts/)
