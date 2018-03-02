@@ -20,7 +20,7 @@ TLS has been revised a number of times, but the current specifications
 we are working on are:
 
 * [TLS1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-tls13/)
-* [DTLS1.3](datatracker.ietf.org/doc/draft-ietf-tls-dtls13/)
+* [DTLS1.3](https://datatracker.ietf.org/doc/draft-ietf-tls-dtls13/)
 * [TLS 1.3 Test Vectors](https://datatracker.ietf.org/doc/draft-ietf-tls-tls13-vectors/)
 * [TLS 1.3 Certificate Compression](https://datatracker.ietf.org/doc/draft-ietf-tls-certificate-compression/)
 * [DTLS Connection IDs](https://datatracker.ietf.org/doc/draft-ietf-tls-dtls-connection-id/)
