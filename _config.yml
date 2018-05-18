@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 markdown: kramdown
-favicon: /assets/images/favicon.png
 
-title: TLS WG
+title: TLS
 description: The TLS WG (Transport Layer Security Working Group) maintains the TLS protocol.
