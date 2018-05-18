@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 markdown: kramdown
 
 title: TLS
-description: The TLS WG (Transport Layer Security Working Group) maintains the TLS protocol.
+description: TLS WG
