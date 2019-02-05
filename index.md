@@ -52,7 +52,7 @@ title: TLS
         <p>The next TLS WG meeting will take place at <strong>IETF 104 in Prague, CZ</strong>.</p>
         <p>Check out the content below for more information on participating.</p>
         <ul>
-            <li><a href="https://github.com/httpwg/http-extensions/blob/master/CONTRIBUTING.md">Contribution FAQs</a> <span class="label label-success">start here</span></li>
+            <li><a href="https://github.com/tlswg/wiki/blob/master/CONTRIBUTING.md">Contribution FAQs</a> <span class="label label-success">start here</span></li>
             <li>Read the <a href="https://datatracker.ietf.org/wg/tls/charter/">charter</a></li>
             <li>Subscribe to the <a href="https://www.ietf.org/mailman/listinfo/tls">mailing list</a> or <a href="https://mailarchive.ietf.org/arch/browse/tls/">read the archives</a></li>
             <li>Read <a href="https://github.com/tlswg/wg-materials">meeting materials</a></li>
