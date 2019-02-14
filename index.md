@@ -22,31 +22,16 @@ title: TLS
     <div class="col-sm-4">
         <h2>Documentation</h2>
         <ul>
-            <li><a href="#">Overview of TLS and DTLS</a> <span class="label label-success">start here!</span></li>
+            <li><a href="https://github.com/tlswg/tlswg-wiki/blob/master/OVERVIEW.md">Overview of TLS and DTLS</a> <span class="label label-success">start here!</span></li>
             <li><a href="https://datatracker.ietf.org/wg/tls/documents/">Active and related documents</a></li>
-            <li><a href="#">Summary of formal analysis and related research</a></li>
+            <li><a href="https://github.com/tlswg/tlswg-wiki/blob/master/RESEARCH.md">Summary of formal analysis and related research</a></li>
         </ul>
     </div>
     <div class="col-sm-4">
         <h2>Implementations</h2>
         <p>Many TLS and DTLS implementations exist. Check out our record of
-            <a href="#">implementations</a> and their properties.</p>
+            <a href="https://github.com/tlswg/tlswg-wiki/blob/master/IMPLEMENTATIONS.md">implementations</a> and their properties.</p>
     </div>
-    <!-- <div class="col-sm-3">
-        <h2>Active Work</h2>
-        <ul>
-            <li><a href="https://datatracker.ietf.org/doc/draft-ietf-tls-certificate-compression/">TLS Certificate Compression</a></li>
-            <li><a href="https://datatracker.ietf.org/doc/draft-ietf-tls-dtls-connection-id/">Connection Identifiers for DTLS 1.2</a></li>
-            <li><a href="https://datatracker.ietf.org/doc/draft-ietf-tls-dtls13/">The Datagram Transport Layer Security (DTLS) Protocol Version 1.3</a></li>
-            <li><a href="https://datatracker.ietf.org/doc/draft-ietf-tls-esni/">Encrypted Server Name Indication for TLS 1.3</a></li>
-            <li><a href="https://datatracker.ietf.org/doc/draft-ietf-tls-exported-authenticator/">Exported Authenticators in TLS</a></li>
-            <li><a href="https://datatracker.ietf.org/doc/draft-ietf-tls-grease/">Applying GREASE to TLS Extensibility</a></li>
-            <li><a href="https://datatracker.ietf.org/doc/draft-ietf-tls-oldversions-deprecate/">Deprecating TLSv1.0 and TLSv1.1</a></li>
-            <li><a href="https://datatracker.ietf.org/doc/draft-ietf-tls-sni-encryption/">Issues and Requirements for SNI Encryption in TLS</a></li>
-            <li><a href="https://datatracker.ietf.org/doc/draft-ietf-tls-subcerts/">Delegated Credentials for TLS</a></li>
-            <li><a href="https://datatracker.ietf.org/doc/draft-ietf-tls-ticketrequests/">TLS Ticket Requests</a></li>
-        </ul>
-    </div> -->
     <div class="col-sm-4">
         <h2>Participation</h2>
         <p>The next TLS WG meeting will take place at <strong>IETF 104 in Prague, CZ</strong>.</p>
