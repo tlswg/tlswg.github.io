@@ -11,7 +11,7 @@ title: TLS
                     <img src="/assets/img/TLS-Badge-Files/svg/TLS-Badge-Color-RGB.svg" height="100">
                 </div>
                 <div class="col-sm-10">
-                    <p class="lead"><br>The <strong><a href="http://www.ietf.org/">IETF</a> <a href="http://www.ietf.org/wg/tls">TLS</a> Working Group</strong> maintains and develops the <strong>Transport Layer Security Protocol</strong> - the core security protocol of the <strong>Internet</strong>.</p>
+                    <p class="lead"><br>The <strong><a href="http://www.ietf.org/">IETF</a> <a href="https://datatracker.ietf.org/wg/tls/about/">TLS</a> Working Group</strong> maintains and develops the <strong>Transport Layer Security Protocol</strong> - the core security protocol of the <strong>Internet</strong>.</p>
                 </div>
             </div>
         </div>
