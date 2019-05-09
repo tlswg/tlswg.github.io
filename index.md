@@ -21,6 +21,7 @@ title: TLS
 <div class="row">
     <div class="col-sm-4">
         <h2>Documentation</h2>
+        <p>Are you new to TLS, looking for a particular specification, or in search of a summary of related academic research? The links below should get you started.</p>
         <ul>
             <li><a href="https://github.com/tlswg/tlswg-wiki/blob/master/OVERVIEW.md">Overview of TLS and DTLS</a> <span class="label label-success">start here!</span></li>
             <li><a href="https://datatracker.ietf.org/wg/tls/documents/">Active and related documents</a></li>
@@ -30,7 +31,7 @@ title: TLS
     <div class="col-sm-4">
         <h2>Implementations</h2>
         <p>Many TLS and DTLS implementations exist. Check out our record of
-            <a href="https://github.com/tlswg/tlswg-wiki/blob/master/IMPLEMENTATIONS.md">implementations</a> and their properties.</p>
+            <a href="https://github.com/tlswg/tlswg-wiki/blob/master/IMPLEMENTATIONS.md">implementations</a> and their properties. Do you have an implementation not listed? Please submit a Pull Request and include it!</p>
     </div>
     <div class="col-sm-4">
         <h2>Participation</h2>
