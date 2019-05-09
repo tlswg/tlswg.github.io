@@ -32,7 +32,7 @@ title: TLS
         <h2>Implementations</h2>
         <p>Many TLS and DTLS implementations exist. Check out our record of
             <a href="https://github.com/tlswg/tlswg-wiki/blob/master/IMPLEMENTATIONS.md">implementations</a> and their properties.</p>
-        <p>Do you have an implementation not listed? Please submit a Pull Request and include it!</p>
+        <p>Do you have an implementation not listed? Please <a href="https://github.com/tlswg/tlswg.github.io/pulls">submit a Pull Request</a> and include it!</p>
     </div>
     <div class="col-sm-4">
         <h2>Participation</h2>
