@@ -30,9 +30,11 @@ title: TLS
     </div>
     <div class="col-sm-4">
         <h2>Implementations</h2>
-        <p>Many TLS and DTLS implementations exist. Check out our record of
-            <a href="https://github.com/tlswg/tlswg-wiki/blob/master/IMPLEMENTATIONS.md">implementations</a> and their properties.</p>
-        <p>Do you have an implementation not listed? Please <a href="https://github.com/tlswg/tlswg.github.io/pulls">submit a Pull Request</a> and include it!</p>
+        <p>Check out (D)TLS implementations and testing resourcess.</p>
+        <ul>
+            <li>Many <a href="https://github.com/tlswg/tlswg-wiki/blob/master/IMPLEMENTATIONS.md">independent implementations</a> exist. Do you have an implementation not listed? Please <a href="https://github.com/tlswg/tlswg.github.io/pulls">submit a Pull Request</a> and include it!</li>
+            <li>View our list of TLS <a href="https://github.com/tlswg/tlswg-wiki/blob/master/TESTING.md">safety and correctness testing resources</a>.</li>
+        </ul>
     </div>
     <div class="col-sm-4">
         <h2>Participation</h2>
