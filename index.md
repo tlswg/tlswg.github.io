@@ -23,7 +23,7 @@ title: TLS
         <h2>Documentation</h2>
         <p>Are you new to TLS, looking for a particular specification, or in search of a summary of related academic research? The links below should get you started.</p>
         <ul>
-            <li><a href="https://github.com/tlswg/tlswg-wiki/blob/master/OVERVIEW.md">Overview of TLS and DTLS</a> <span class="label label-success">start here!</span></li>
+            <li><a href="https://github.com/tlswg/tlswg-wiki/blob/master/OVERVIEW.md">Overview of TLS and DTLS</a></li>
             <li><a href="https://datatracker.ietf.org/wg/tls/documents/">Active and related documents</a></li>
             <li><a href="https://github.com/tlswg/tlswg-wiki/blob/master/RESEARCH.md">Summary of formal analysis and related research</a></li>
         </ul>
@@ -41,7 +41,7 @@ title: TLS
         <p>The next TLS WG meeting will take place at <strong>IETF 105 in Montreal, Québec, Canada</strong>.</p>
         <p>Check out the content below for more information on participating.</p>
         <ul>
-            <li><a href="https://github.com/tlswg/tlswg-wiki/blob/master/FAQ.md">Contribution FAQs</a> <span class="label label-success">start here</span></li>
+            <li><a href="https://github.com/tlswg/tlswg-wiki/blob/master/FAQ.md">Contribution FAQs</a></li>
             <li>Read the <a href="https://datatracker.ietf.org/wg/tls/charter/">charter</a></li>
             <li>Subscribe to the <a href="https://www.ietf.org/mailman/listinfo/tls">mailing list</a> or <a href="https://mailarchive.ietf.org/arch/browse/tls/">read the archives</a></li>
             <li>Read <a href="https://github.com/tlswg/wg-materials">meeting materials</a></li>
