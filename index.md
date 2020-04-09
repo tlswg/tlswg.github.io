@@ -38,7 +38,7 @@ title: TLS
     </div>
     <div class="col-sm-4">
         <h2>Participation</h2>
-        <p>The next TLS WG meeting originally set to take place at <strong>IETF 107 in Vancouver</strong> was cancelled. Stay tuned on the mailing list for updates on the next meeting.</p>
+        <p>The next TLS WG meeting will take place virtually on <strong>April 27, 2020 from 1900 to 2100 UTC</strong>.</p>
         <p>Check out the content below for more information on participating.</p>
         <ul>
             <li><a href="https://github.com/tlswg/tlswg-wiki/blob/master/FAQ.md">Contribution FAQs</a></li>
