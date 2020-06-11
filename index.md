@@ -23,7 +23,7 @@ title: TLS
         <h2>Documentation</h2>
         <p>Are you new to TLS, looking for a particular specification, or in search of a summary of related academic research? The links below should get you started.</p>
         <ul>
-            <li><a href="https://github.com/tlswg/tlswg-wiki/blob/master/OVERVIEW.md">Overview of TLS and DTLS</a></li>
+            <!--<li><a href="https://github.com/tlswg/tlswg-wiki/blob/master/OVERVIEW.md">Overview of TLS and DTLS</a></li>-->
             <li><a href="https://datatracker.ietf.org/wg/tls/documents/">Active and related documents</a></li>
             <li><a href="https://github.com/tlswg/tlswg-wiki/blob/master/RESEARCH.md">Summary of formal analysis and related research</a></li>
         </ul>
