@@ -38,7 +38,7 @@ title: TLS
     </div>
     <div class="col-sm-4">
         <h2>Participation</h2>
-        <p>The last TLS WG meeting took place during <a href="https://datatracker.ietf.org/meeting/111/session/tls">IETF 111</a>. The next meeting has not yet been scheduled. Check out the content below for more information on participating.</p>
+        <p>The next TLS WG meeting will take place during <a href="https://datatracker.ietf.org/meeting/112/session/tls">IETF 112</a>. Check out the content below for more information on participating.</p>
         <ul>
             <li><a href="https://github.com/tlswg/tlswg-wiki/blob/master/FAQ.md">Contribution FAQs</a></li>
             <li>Read the <a href="https://datatracker.ietf.org/wg/tls/charter/">charter</a></li>
